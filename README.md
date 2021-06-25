@@ -5,5 +5,5 @@
 <div>
 I'm a developer from New Zealand with too much free time.
   
-  <h3>My Projects</h3>
+<h3>My Projects</h3>
 
